@@ -8,7 +8,7 @@ Created on Tue Jan 24 02:28:30 2023
 import numpy as np
 import pickle
 import streamlit as st
-import yfinance as yf
+
 
 # loading the saved model
 loaded_model = pickle.load(open(r"C:\Users\vivek abhimanyu\Documents\major_project\diabetes_model.sav", 'rb'))
