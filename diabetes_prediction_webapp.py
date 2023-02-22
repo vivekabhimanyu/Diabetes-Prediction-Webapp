@@ -18,7 +18,7 @@ background-color:rgb(255,255,255);}
 [data-testid="stAppViewContainer"] {background-size:center;
 background-color:rgb(255,255,255);
 background-image-opacity:0.5;
-background-image:url("https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy.gif");
+background-image:url("https://media.giphy.com/media/5owNSuvkqgLg1iqNrF/giphy.gif");
 
 }
 </style>
