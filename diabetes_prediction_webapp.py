@@ -19,7 +19,7 @@ background-image: radial-gradient(circle at center center, #444cf7, #e5e5f7), re
 background-blend-mode: multiply;}
 </style>
 """
-st.markdown=(page_bg_image,unsafe_allow_html=True)
+st.markdown(page_bg_image,unsafe_allow_html=True)
 # loading the saved model
 loaded_model = pickle.load(open('trained_model.pkl', 'rb'))
 
