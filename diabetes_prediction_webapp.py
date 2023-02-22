@@ -41,8 +41,8 @@ def main():
       
       #getting the input dat afrom users
       
-      Pregnancies = st.text_input("Number of Pregnancies : ",min_value=0,max_value=None)
-      Glucose = st.text_input("Glucose levels",min_value=0,max_value=199)
+      Pregnancies = st.number_input("Number of Pregnancies : ",min_value=0,max_value=None)
+      Glucose = st.number_input("Glucose levels",min_value=0,max_value=199)
       BloodPressure = st.text_input("Blood Pressure value ")
       SkinThickness = st.text_input("SkinThickness value ")
       Insulin = st.text_input("insulin level ")
