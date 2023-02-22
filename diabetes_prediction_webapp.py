@@ -14,9 +14,10 @@ import string
 page_bg_image="""
 <style>
 [data-testid="styles_stateContainer__29Rp6"] {
-background-color:rgb(255,255,255)}
+background-color:rgb(255,255,255);}
 [data-testid="stAppViewContainer"] {background-size:center;
-background-imge-opacity:0.7;
+background-color:rgb(255,255,255);
+background-image-opacity:0.5;
 background-image:url("https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif");  
 }
 </style>
