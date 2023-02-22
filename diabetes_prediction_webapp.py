@@ -13,9 +13,9 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-color: #e5e5f7;
+[data-testid="stAppViewContainer"] {background-size: cover;
 opacity: 0.8;
-background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 10px ), repeating-linear-gradient( #444cf755, #444cf7 );
+background-image:url("./home.jpeg");  
 }
 </style>
 """
