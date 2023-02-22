@@ -14,7 +14,7 @@ import string
 page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size: cover;
-background-image:url("https://github.com/vivekabhimanyu/Diabetes-Prediction-Webapp/blob/main/home.jpeg");  
+background-image:url("blob:https://www.watermarkremover.io/a0455beb-d8f7-4f87-8fee-9cee2d364662");  
 }
 </style>
 """
