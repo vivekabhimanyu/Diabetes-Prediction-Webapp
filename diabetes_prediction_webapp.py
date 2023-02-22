@@ -48,7 +48,7 @@ def main():
       Insulin = st.number_input("insulin level ",min_value=0,max_value=846)
       BMI = st.number_input("BMI Value ",min_value=0.0,max_value=67.1)
       DPF = st.number_input("Diabetes pedigree Function value ",min_value=0.078,max_value=2.42)
-      Age = st.number_inputr("Age of patitent ",min_value=21,max_value=81)
+      Age = st.number_input("Age of patitent ",min_value=21,max_value=81)
       
       
       #code for prediction
