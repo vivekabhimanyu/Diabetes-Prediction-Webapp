@@ -13,7 +13,7 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-image:url("home.jpeg");
+[data-testid="stAppViewContainer"] {background-image:url("https://drive.google.com/file/d/1Qfbo0heYRiCBVsQCqtZtdudioBnfam8Y/view?usp=share_link");
 background-size:cover;
 opacity:0.5;}
 </style>
