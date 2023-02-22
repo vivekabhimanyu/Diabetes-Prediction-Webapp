@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size:flex;
 background-imge-opacity:0.5;
-background-image:url("https://media.giphy.com/media/kbClh1iOmecVUUw84T/giphy.gif");  
+background-image:url("https://www.shutterstock.com/video/clip-1077211697-dynamic-heart-rate-beat-line-cardiogram-signal");  
 }
 </style>
 """
