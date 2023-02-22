@@ -13,7 +13,7 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="ststyles_streamlitAppContainer__2rBcU"] {background-image:("https://media.istockphoto.com/id/1270360391/vector/multiethnic-nurse-characters-group.jpg?s=2048x2048&w=is&k=20&c=sfGkdNhc6OAgKf029j8MZ77tfCPa0bRseIMoAOe8QQ8=");
+[data-testid="ststyles_streamlitAppContainer__2rBcU"] {background-image:("https://media.istockphoto.com/id/1270360391/vector/multiethnic-nurse-characters-group.jpg?s=1024x1024&w=is&k=20&c=D_cUYZecYTA-5ueRp2ji1MwkrRN5kkKksSFQFXmU20w=");
 background-size:cover;
 }
 </style>
