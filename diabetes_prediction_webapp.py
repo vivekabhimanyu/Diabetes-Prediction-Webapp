@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size:cover;
 background-imge-opacity:0.5;
-background-image:url("https://media.giphy.com/media/duGB9Or2KTW4aB4KhY/giphy.gif");  
+background-image:url("https://media.giphy.com/media/XW6Y10VqIHmnfoTm4v/giphy.gif");  
 }
 </style>
 """
