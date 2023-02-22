@@ -14,7 +14,7 @@ import string
 page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size: cover;
-opacity:0.6;
+background-imge-opacity:0.5;
 background-image:url("https://as2.ftcdn.net/v2/jpg/04/58/08/43/1000_F_458084303_MBf5oQwZ3bQVe2p4BBjoO5apBETTOduH.jpg");  
 }
 </style>
