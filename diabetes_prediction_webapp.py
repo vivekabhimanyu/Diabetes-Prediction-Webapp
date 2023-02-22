@@ -13,7 +13,7 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-image:url("https://www.vectorstock.com/royalty-free-vector/hospital-room-cartoon-doctor-and-patient-vector-26873580");
+[data-testid="stAppViewContainer"] {background-image:url("https://cdn.vectorstock.com/i/1000x1000/35/80/hospital-room-cartoon-doctor-and-patient-vector-26873580.webp");
 background-size:cover;}
 </style>
 """
