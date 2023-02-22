@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size: cover;
 opacity:0.6;
-background-image:url("https://cdn-icons-png.flaticon.com/512/8822/8822975.png");  
+background-image:url("https://cdn-icons-png.flaticon.com/512/2504/2504277.png");  
 }
 </style>
 """
