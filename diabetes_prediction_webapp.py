@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size:cover;
 background-imge-opacity:0.5;
-background-image:url("https://tenor.com/view/medicina-hmpb-medicina-hmpb-gif-20219604");  
+background-image:url("https://media.giphy.com/media/ZKw0NDn10ljSE/giphy.gif");  
 }
 </style>
 """
