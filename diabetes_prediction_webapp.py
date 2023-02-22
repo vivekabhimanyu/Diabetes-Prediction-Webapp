@@ -14,8 +14,8 @@ import string
 page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size:cover;
-background-imge-opacity:0.5;
-background-image:url("https://media.giphy.com/media/bv1hFhF9tyrirpXNUX/giphy.gif");  
+background-imge-opacity:0.7;
+background-image:url("https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif");  
 }
 </style>
 """
