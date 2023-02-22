@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size:flex;
 background-imge-opacity:0.5;
-background-image:url("https://www.shutterstock.com/video/clip-1077211697-dynamic-heart-rate-beat-line-cardiogram-signal");  
+background-image:url("https://www.shutterstock.com/shutterstock/videos/1035906272/preview/stock-footage-heartbeat-monitor-ekg-line-monitor-shows-heartthrob-seamlessly-loop-electrocardiogram-medical.webm");  
 }
 </style>
 """
