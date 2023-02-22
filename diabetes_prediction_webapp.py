@@ -14,7 +14,7 @@ import string
 page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size: cover;
-background-image:url("https://media.istockphoto.com/id/938656872/vector/doctors.jpg?s=1024x1024&w=is&k=20&c=-xe5vtAiL2qv5eAQM7a6KRsMHms0OneJW210Rs5xyuI=");  
+background-image:url("https://www.istockphoto.com/vector/medical-masked-doctors-and-medical-team-are-posing-in-a-standing-pose-gm1313863397-402253805");  
 }
 </style>
 """
