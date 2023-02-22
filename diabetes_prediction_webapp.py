@@ -13,7 +13,7 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-size:cover;
+[data-testid="stAppViewContainer"] {background-size:center;
 background-imge-opacity:0.7;
 background-image:url("https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif");  
 }
