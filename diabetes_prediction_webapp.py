@@ -13,7 +13,7 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-image:url("https://cdn.vectorstock.com/i/1000x1000/35/80/hospital-room-cartoon-doctor-and-patient-vector-26873580.webp");
+[data-testid="stAppViewContainer"] {background-image:url("https://media.istockphoto.com/id/1270360391/vector/multiethnic-nurse-characters-group.jpg?s=1024x1024&w=is&k=20&c=D_cUYZecYTA-5ueRp2ji1MwkrRN5kkKksSFQFXmU20w=");
 background-size:cover;}
 </style>
 """
