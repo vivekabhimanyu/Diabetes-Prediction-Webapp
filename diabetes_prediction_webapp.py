@@ -37,7 +37,7 @@ def diabetes_prediction(input_data):
 def main():
       #making title
       st.title("Diabetes prediction Web App")
-      st.latex("Simplified"," ", "Solutions")
+      st.latex("Simplified Solutions")
       
       #getting the input dat afrom users
       
