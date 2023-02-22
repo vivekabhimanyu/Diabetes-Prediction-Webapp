@@ -43,12 +43,12 @@ def main():
       
       Pregnancies = st.number_input("Number of Pregnancies : ",min_value=0,max_value=None)
       Glucose = st.number_input("Glucose levels",min_value=0,max_value=199)
-      BloodPressure = st.text_number("Blood Pressure value ",min_value=0,max_value=122)
-      SkinThickness = st.text_number("SkinThickness value ",min_value=0,max_value=99)
-      Insulin = st.text_number("insulin level ",min_value=0,max_value=846)
-      BMI = st.text_number("BMI Value ",min_value=0.0,max_value=67.1)
-      DPF = st.text_number("Diabetes pedigree Function value ",min_value=0.078,max_value=2.42)
-      Age = st.text_number("Age of patitent ",min_value=21,max_value=81)
+      BloodPressure = st.number_input("Blood Pressure value ",min_value=0,max_value=122)
+      SkinThickness = st.number_input("SkinThickness value ",min_value=0,max_value=99)
+      Insulin = st.number_input("insulin level ",min_value=0,max_value=846)
+      BMI = st.number_input("BMI Value ",min_value=0.0,max_value=67.1)
+      DPF = st.number_input("Diabetes pedigree Function value ",min_value=0.078,max_value=2.42)
+      Age = st.number_inputr("Age of patitent ",min_value=21,max_value=81)
       
       
       #code for prediction
