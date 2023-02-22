@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size:cover;
 background-imge-opacity:0.5;
-background-image:url("https://gfycat.com/unknownpositiveanglerfish");  
+background-image:url("https://tenor.com/view/medicina-hmpb-medicina-hmpb-gif-20219604");  
 }
 </style>
 """
