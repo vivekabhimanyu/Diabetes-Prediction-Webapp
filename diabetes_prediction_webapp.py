@@ -13,10 +13,9 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-color: #e5e5f7;
+[data-testid="stAppViewContainer"] {background-image:url("https://www.vectorstock.com/royalty-free-vector/hospital-room-cartoon-doctor-and-patient-vector-26873580"
 opacity: 0.8;
-background-image: radial-gradient(circle at center center, #444cf7, #e5e5f7), repeating-radial-gradient(circle at center center, #444cf7, #444cf7, 10px, transparent 20px, transparent 10px);
-background-blend-mode: multiply;}
+background-size:cover;}
 </style>
 """
 st.markdown(page_bg_image,unsafe_allow_html=True)
