@@ -13,7 +13,7 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-image:("https://img.freepik.com/premium-vector/online-doctor-vector-illustration-concept-online-medical-consultation-support-online_199064-691.jpg?w=740");
+[data-testid="stAppViewContainer"] {background-image:("https://thumbs.dreamstime.com/z/innovative-technology-online-diagnosis-healthcare-innovative-technology-online-diagnosis-cartoon-doctors-examines-137790154.jpg");
 background-size:cover;
 opacity:0.5;}
 </style>
