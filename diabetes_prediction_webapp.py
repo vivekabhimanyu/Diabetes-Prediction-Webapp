@@ -9,20 +9,12 @@ import numpy as np
 import pickle
 import streamlit as st
 import string
-import base64
-
-@st.experimental_memo
-def get_img_as_base64(file):
-    with open(file,"rb")as f:
-        data=f.read()
-    return base64.b64encode(data).decode()
-img=get_img_as_base64("home.jpeg")
 
 # Adding the background image
 page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size: cover;
-background-image:url("data:image/png;base64,(img)");  
+background-image:url("https://media.istockphoto.com/id/938656872/vector/doctors.jpg?s=1024x1024&w=is&k=20&c=-xe5vtAiL2qv5eAQM7a6KRsMHms0OneJW210Rs5xyuI=");  
 }
 </style>
 """
