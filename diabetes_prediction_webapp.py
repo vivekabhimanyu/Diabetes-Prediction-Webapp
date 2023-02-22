@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size:cover;
 background-imge-opacity:0.5;
-background-image:url("https://static.videezy.com/system/resources/previews/000/043/173/original/trail_hearts.mp4");  
+background-image:url("https://media.giphy.com/media/xUA7biF7n8LcAqh4bK/giphy.gif");  
 }
 </style>
 """
