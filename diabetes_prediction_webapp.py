@@ -37,12 +37,12 @@ def diabetes_prediction(input_data):
 def main():
       #making title
       st.title("Diabetes prediction Web App")
-      st.write("vidhi  ai powered predictions")
+      st.latex("vidhi  ai powered predictions")
       
       #getting the input dat afrom users
       
-      Pregnancies = st.text_input("Number of Pregnancies : ")
-      Glucose = st.text_input("Glucose levels")
+      Pregnancies = st.text_input("Number of Pregnancies : ",min_value=0,max_value=None)
+      Glucose = st.text_input("Glucose levels",min_value=0,max_value=199)
       BloodPressure = st.text_input("Blood Pressure value ")
       SkinThickness = st.text_input("SkinThickness value ")
       Insulin = st.text_input("insulin level ")
