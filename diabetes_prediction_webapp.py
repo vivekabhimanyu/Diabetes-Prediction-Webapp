@@ -13,12 +13,12 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="styles_stateContainer__29Rp6"] {
+[data-testid="stAppViewContainer"] {
 background-color:rgb(255,255,255);}
 [data-testid="stAppViewContainer"] {background-size:center;
 background-color:rgb(255,255,255);
 background-image-opacity:0.5;
-background-image:url("https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif");  
+background-image:url("background-color:rgb(255,255,255);");  
 }
 </style>
 """
