@@ -13,7 +13,7 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-image:("/content/home.jpeg");
+[data-testid="ststyles_streamlitAppContainer__2rBcU"] {background-image:("https://unsplash.com/photos/S1v7hVUiCg0");
 background-size:cover;
 }
 </style>
