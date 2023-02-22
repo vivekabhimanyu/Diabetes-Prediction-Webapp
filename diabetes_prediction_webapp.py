@@ -37,7 +37,7 @@ def diabetes_prediction(input_data):
 def main():
       #making title
       st.title("Diabetes prediction Web App")
-      st.latex("vidhi  ai powered predictions")
+      st.latex("Simplified"," ", "Solutions")
       
       #getting the input dat afrom users
       
