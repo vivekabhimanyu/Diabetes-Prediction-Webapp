@@ -13,9 +13,9 @@ import string
 # Adding the background image
 page_bg_image="""
 <style>
-[data-testid="stAppViewContainer"] {background-size:flex;
+[data-testid="stAppViewContainer"] {background-size:cover;
 background-imge-opacity:0.5;
-background-image:url("https://www.shutterstock.com/shutterstock/videos/1035906272/preview/stock-footage-heartbeat-monitor-ekg-line-monitor-shows-heartthrob-seamlessly-loop-electrocardiogram-medical.webm");  
+background-image:url("https://static.videezy.com/system/resources/previews/000/043/173/original/trail_hearts.mp4");  
 }
 </style>
 """
