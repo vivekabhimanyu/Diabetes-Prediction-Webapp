@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-image:("https://thumbs.dreamstime.com/z/innovative-technology-online-diagnosis-healthcare-innovative-technology-online-diagnosis-cartoon-doctors-examines-137790154.jpg");
 background-size:cover;
-opacity:0.5;}
+}
 </style>
 """
 st.markdown(page_bg_image,unsafe_allow_html=True)
