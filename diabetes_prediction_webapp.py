@@ -14,7 +14,7 @@ import base64
 @st.experimental_memo
 def get_img_as_base64(file):
     with open(file,"rb")as f:
-        date=f.read()
+        data=f.read()
     return base64.b64encode(data).decode()
 img=get_img_as_base64("home.jpeg")
 
