@@ -14,7 +14,7 @@ import string
 page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {background-size: cover;
-background-image:url("https://www.istockphoto.com/vector/medical-masked-doctors-and-medical-team-are-posing-in-a-standing-pose-gm1313863397-402253805");  
+background-image:url("https://github.com/vivekabhimanyu/Diabetes-Prediction-Webapp/blob/main/home.jpeg");  
 }
 </style>
 """
