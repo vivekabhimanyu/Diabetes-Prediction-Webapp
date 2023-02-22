@@ -15,7 +15,7 @@ page_bg_image="""
 <style>
 [data-testid="stAppViewContainer"] {
 background-color:rgb(255,255,255);}
-[data-testid="stAppViewContainer"] {background-size:center;
+[data-testid="stAppViewContainer"] {background-size:flex;
 background-color:rgb(255,255,255);
 background-image-opacity:0.5;
 background-image:url("https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif");
