@@ -36,7 +36,7 @@ def covid_prediction(input_data):
   
 def main():
       #making title
-      st.title("Covid-19 prediction WebApp")
+      st.title("Covid-19 Risk Analyser")
       st.caption(":violet[Predictions Simplified]....")
       
       #getting the input dat afrom users
