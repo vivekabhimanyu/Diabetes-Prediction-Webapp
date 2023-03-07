@@ -8,6 +8,20 @@ import numpy as np
 import pickle
 import streamlit as st
 
+# Adding the background image
+page_bg_image="""
+<style>
+[data-testid="stAppViewContainer"] {
+background-color:rgb(255,255,255);}
+[data-testid="stAppViewContainer"] {background-size:cover;
+background-color:rgb(255,255,255);
+background-image-opacity:0.5;
+background-image:url("https://media.giphy.com/media/3o752oeUYz6S2SHi5W/giphy.gif");
+}
+</style>
+"""
+st.markdown(page_bg_image,unsafe_allow_html=True)
+
 
 
 loaded_model = pickle.load(open('heart_disease_model.pkl','rb'))
