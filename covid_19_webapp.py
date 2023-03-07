@@ -11,7 +11,7 @@ import streamlit as st
 import string
 
 # loading the saved model
-loaded_model = pickle.load(open("C:/Users/vivek abhimanyu/Desktop/major_project/covid_model.sav", 'rb'))
+loaded_model = pickle.load(open("covid_model.pkl", 'rb'))
 
 #creating a function for prediction
 def covid_prediction(input_data):
