@@ -11,13 +11,13 @@ from streamlit_option_menu import option_menu
 
 #loading saved model
 
-diabetes_model = pickle.load(open("C:/Users/vivek abhimanyu/Desktop/major_project/diabetes_trained_model.sav","rb" ))
+diabetes_model = pickle.load(open('trained_model.pkl', 'rb' ))
 
-heart_disease_model = pickle.load(open("C:/Users/vivek abhimanyu/Desktop/major_project/heart_disease_model.pkl","rb" ))
+heart_disease_model = pickle.load(open('heart_disease_model.pkl','rb' ))
 
-covid19_model = pickle.load(open("C:/Users/vivek abhimanyu/Desktop/major_project/covid_model.pkl","rb" ))
+covid19_model = pickle.load(open("covid_model.pkl", 'rb' ))
 
-#sidebar fro navigation
+#sidebar for navigation
 
 with st.sidebar:
     selected =option_menu("Multiple Disesase Prediction System",
