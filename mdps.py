@@ -11,7 +11,7 @@ from streamlit_option_menu import option_menu
 
 #loading saved model
 
-diabetes_model = pickle.load(open("diabetes_trained_model.pkl","rb" ))
+diabetes_model = pickle.load(open("trained_model.pkl","rb" ))
 
 heart_disease_model = pickle.load(open("heart_disease_model.pkl","rb" ))
 
