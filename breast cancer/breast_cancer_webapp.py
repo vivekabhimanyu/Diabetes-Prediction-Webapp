@@ -8,7 +8,7 @@ import numpy as np
 import pickle
 import streamlit as st
 
-loaded_model = pickle.load(open("breast_cancer_model.pkl",'rb'))
+loaded_model = pickle.load(open("breast cancer/breast_cancer_model.pkl",'rb'))
 
 def breast_cancer_prediction(input_data):
     #changing the input_data to numpy array
