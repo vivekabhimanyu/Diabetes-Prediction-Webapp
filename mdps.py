@@ -20,16 +20,11 @@ covid19_model = pickle.load(open("covid_model.pkl","rb" ))
 breast_cancer_model = pickle.load(open("breast_cancer_model.pkl","rb"))
 
 #sidebar for navigation
-
-with st.sidebar:
-    selected =option_menu("Multiple Disesase Prediction System",
-                          
-                          options=['Home',"Diabetes","Heart","Covid-19","Breast Cancer"],
-                          
-                          icons = ["house check","person","activity","bandaid","gender-female"],
-                          orientation="horizontal",
-                         
-                          default_index=0)
+selected =option_menu("Multiple Disesase Prediction System",
+                      options=['Home',"Diabetes","Heart","Covid-19","Breast Cancer"],
+                      icons = ["house check","person","activity","bandaid","gender-female"],
+                      orientation="horizontal",
+                      default_index=0)
 
 #home vidhi predictions
 if (selected =="Home"):
