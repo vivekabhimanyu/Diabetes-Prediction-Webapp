@@ -24,7 +24,7 @@ breast_cancer_model = pickle.load(open("breast_cancer_model.pkl","rb"))
 with st.sidebar:
     selected =option_menu("Multiple Disesase Prediction System",
                           
-                          ['Home',"Diabetes","Heart","Covid-19","Breast Cancer"],
+                          options=['Home',"Diabetes","Heart","Covid-19","Breast Cancer"],
                           
                           icons = ["house check","person","activity","bandaid","gender-female"],
                           orientation="horizontal",
