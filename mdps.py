@@ -27,10 +27,8 @@ with st.sidebar:
                           ['Home',"Diabetes","Heart","Covid-19","Breast Cancer"],
                           
                           icons = ["house check","person","activity","bandaid","gender-female"],
-                          
-                          orientation='horizantal',
+                          orientation="horizontal",
                          
-                          
                           default_index=0)
 
 #home vidhi predictions
